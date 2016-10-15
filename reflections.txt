@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+1. Paths are something I struggle with, so helped me start to wrap my head around it. Also, using figure and figcaption tags. I knew of them, but I don’t really think about using them.
+2. Recreating the document was the easiest.
+3. Doing the relative path was most difficult. Also, I always forget the image alt tag.
+4. Oh, let’s see, at first I couldn’t get the Udacity Feedback Extension to work because I had set it up months ago. When I had set it up before, I didn’t select “Allow access to file URLs” in the Extension. I had to review the docs to find that one thing I was missing. I new it worked else where - i.e. on the web, so I knew that it wasn’t allowing access to my local drive for some reason. That was fun. ;)
